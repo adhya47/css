@@ -9,11 +9,12 @@ h1:hover::first-letter {
     color: blueviolet;
 } */
 
-div {
+
+/* div {
     margin: 100px;
     padding: 20px;
     border: 2px solid black;
     height: 200px;
     width: 200px;
     border-right: 8px solid rgb(68, 182, 36);
-}
+} */
